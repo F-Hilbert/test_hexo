@@ -5,8 +5,6 @@ tags:
 ---
 
 
-## 简介hexo
-
 $a^{5}$  
 $\alpha$  
 $$f(x)=\frac{P(x)}{Q(x)}$$
