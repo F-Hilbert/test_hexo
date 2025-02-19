@@ -1,0 +1,5 @@
+---
+title: Numerical analysis
+date: 2025-02-19 09:26:17
+tags:
+---
